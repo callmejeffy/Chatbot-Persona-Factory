@@ -1,6 +1,6 @@
     # Chatbot Persona Factory
 
-    A lightweight Python application demonstrating how to use **Object-Oriented Programming (OOP)** and the **Factory Design Pattern** to generate distinct AI personalities using the OpenAI API.
+    A lightweight Python application demonstrating how to use **Object-Oriented Programming (OOP)** to generate distinct AI personalities using the OpenAI API.
 
     Choose between Filipino Kabayan, Marites na Kapitbahay, and Girl Bestfriend. Add more and enjoy the humor!
 
