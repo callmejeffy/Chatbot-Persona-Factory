@@ -1,0 +1,9 @@
+.env
+__pycache__/
+
+*.txt
+
+!requirements.txt
+
+.DS_Store
+Thumbs.db
