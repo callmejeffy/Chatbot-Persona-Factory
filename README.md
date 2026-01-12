@@ -32,3 +32,14 @@ This project is built for **learning and practice**. It showcases how to:
 ├── README.md
 └── requirements.txt
 ```
+
+## Screenshots
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img width="1194" height="446" alt="Filipino Kabayan" src="https://github.com/user-attachments/assets/f3a9ee5a-d435-4e06-aece-c53877362411" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img width="1049" height="598" alt="Marites na Kapitbahay" src="https://github.com/user-attachments/assets/3d29e55e-04e5-4175-8149-2ef13a549c77" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img width="1040" height="631" alt="Girl Bestfriend" src="https://github.com/user-attachments/assets/871061e4-9740-40ef-8408-1a16f4a56b28" />
+
+
+
